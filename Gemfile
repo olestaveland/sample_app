@@ -21,6 +21,7 @@ group :assets do
 end
 
 gem 'jquery-rails'
+gem 'heroku'
 
 group :development do
   gem 'rspec-rails', '2.9.0'
