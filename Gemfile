@@ -22,6 +22,7 @@ end
 
 gem 'jquery-rails'
 gem 'heroku'
+gem 'webrat'
 
 group :development do
   gem 'rspec-rails', '2.9.0'
